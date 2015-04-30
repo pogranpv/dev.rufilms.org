@@ -2,6 +2,8 @@
 Thumbs.db
 ehthumbs.db
 
+/uploads/posts/*
+/uploads/fotos/*
 # Folder config file
 Desktop.ini
 

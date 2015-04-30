@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OpenSansCondensedBold';
+    src: url('/templates/mirfilmov/style/opensans-condbold-webfont.eot');
+    src: url('/templates/mirfilmov/style/opensans-condbold-webfont.eot-#iefix') format('embedded-opentype'),
+         url('/templates/mirfilmov/style/opensans-condbold-webfont.woff') format('woff'),
+         url('/templates/mirfilmov/style/opensans-condbold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

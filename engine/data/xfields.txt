@@ -1,0 +1,15 @@
+kipoisk|ID Кинопоиска||text||1|0|0|1
+year|Год выхода||text||1|0|0|1
+original_title|Оригинальное название||text||1|0|0|1
+poster|Постер||text||0|0|0|1
+screens|Скриншоты||textarea||1|0|1|0
+slider|Ссылка на изображение слайдера 1000x340 px||text||1|0|0|1
+director|Режиссёр||text||1|0|0|1
+cast|Актёры||textarea||1|0|1|0
+trailer|Трейлер||textarea||1|0|1|0
+online|Код онлайн плеера||textarea||1|0|1|0
+quality|Качество||text||1|0|0|1
+audio|Озвучивание||text||1|0|0|1
+links|Ссылки на скачивание||textarea|[leech=]Cкачать с Letitbit.net[/leech]__NEWL__[leech=]Cкачать с Vip-File.com[/leech]__NEWL__[leech=]Cкачать с ShareFlare.net[/leech]__NEWL__[leech=]Cкачать с TurboBit.net[/leech]__NEWL__[leech=]Cкачать с DepositFiles.com[/leech]|1|0|1|0
+torrent|Файлы torrent||textarea||1|0|1|0
+descbar|Название последней серии или обновляемого фильма sidebar||text||1|0|0|0
